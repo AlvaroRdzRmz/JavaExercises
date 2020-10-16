@@ -6,6 +6,7 @@ Your task is to make a function that can take any non-negative integer as an arg
 Essentially, rearrange the digits to create the highest possible number.
 
 Class Name: DescendingOrder
+
 Funtion Name: sortDesc
 
 Examples:
